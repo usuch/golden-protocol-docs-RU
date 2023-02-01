@@ -1,40 +1,42 @@
 ---
 description: >-
-  Welcome to Golden's official documentation for its decentralized knowledge
-  graph API!
+   Добро пожаловать в перевод официальной документацию Голден по децентрализованному графу знаний API!
 ---
 
-# Golden Protocol API Docs
+# Документация по АПИ Голден протокола
 
 ![](.gitbook/assets/golden\_api\_docs.png)
 
-Golden's GraphQL API offers developers powerful and flexible queries to retrieve, submit, and verify the data in the Golden protocol. For more information on Golden and the protocol please read the [README (2).md](<README (2).md> "mention") guide.
+API GraphQL от Golden предлагает разработчикам мощные и гибкие запросы для получения, отправки и проверки данных в протоколе Golden. Для получения дополнительной информации о Golden и протоколе, пожалуйста, прочитайте руководство [README (2).md](<README (2).md> "mention").
 
 {% hint style="info" %}
-The Golden protocol is currently live on the Goerli testnet.
+Голден протокол сейчас работает в тестовой сети Goerli.
 
-Verifiers submitting incorrect verifications (those that do not match the consensus verification vote on a triple) will be penalized by losing a portion of their testnet points (testnet points will be used to calculate future eligible airdrops). In extreme cases, verifiers may lose all of their testnet points and/or their access to dApp.
+Верификаторы, представившие неверные верификации (те, которые не совпадают с консенсусным голосованием по верификации тройки), будут наказаны потерей части своих очков тестнета (очки тестнета будут использоваться для расчета возможного будущих аирдропа). В крайних случаях верификаторы могут потерять все свои очки тестнета и/или доступ к dApp.
 
-Correct verifications (those that agree with the consensus verification vote on the triple) will be rewarded with testnet points.
+Правильные верификации (те, которые согласуются с консенсусным голосованием по верификации тройки) будут вознаграждены очками тестнета.
 
-Attribution and eligibility for testnet points on triple submissions will be assigned by the earliest timestamped transaction.
+Присвоение и право на получение очков тестнета по загруженным тройкам будет осуществляться по самому раннему времени транзакции.
 
-**Please read the** [triple-verification-guide.md](protocol/guides/triple-verification-guide.md "mention") **before submitting or verifying triples.**
+**Пожалуйста ознакомтесь с** [triple-verification-guide.md](protocol/guides/triple-verification-guide.md "mention") **перед подачей или проверкой троек.**
 {% endhint %}
 
-Developers using the Golden API to create agents that submit and verify triples are encouraged to join the [Golden Discord group](https://discord.gg/golden-protocol) to share ideas, feedback, and requests.
+Разработчики, использующие АПИ Голден для создания агентов, которые подают и проверяют тройки, приглашаются присоединиться в [Дискорд Голдена](https://discord.gg/golden-protocol) для обмена идеями, отзывами и пожеланиями.
 
-## Full API Reference
+
+## Полная справка по АПИ
 
 Already have experience with GraphQL APIs and just want to jump in? Check out the API reference and GraphiQL console.
+
+У вас уже есть опыт работы с АПИ GraphQL, и вы только хотите приступить к работе? Ознакомьтесь со справочником по АПИ и консолью GraphiQL.
 
 {% content-ref url="api/overview/api-reference.md" %}
 [api-reference.md](api/overview/api-reference.md)
 {% endcontent-ref %}
 
-## Python Users
+## Пользователи Питон
 
-The Golden community highly encourages data-oriented developers to interact with the Golden protocol, so we provide our very own python wrapper to help you get started.
+Сообщество Голден настоятельно рекомендует разработчикам, ориентированным на работу с данными, взаимодействовать с протоколом Голден, поэтому мы предоставляем наш собственный обернутый Питон, чтобы помочь вам начать работу.
 
 {% content-ref url="godel-python-sdk/" %}
 [godel-python-sdk](godel-python-sdk/)

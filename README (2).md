@@ -1,120 +1,132 @@
 ---
 description: >-
-  Learn about the Golden Protocol and how you can help build the worlds largest
-  decentralized knowledge graph.
+  Узнайте о Golden протоколе и о том, как вы можете помочь в создании крупнейшего в мире
+  децентрализованный граф знаний.
 ---
 
-# Golden Protocol FAQ
+# Частные вопросы о Golden протоколе
 
-### Status and progress
+### Состояние и прогресс
 
-Golden is on a mission to map all human knowledge.&#x20;
+Голден выполняет миссию по составлению карты всех человеческих знаний;
 
-We [started](https://golden.com/blog/introducing-golden/) as a [web2 company](https://golden.com/wiki/Golden-5R) in San Francisco. We [raised $20m](https://golden.com/blog/golden-raises-14-5m-series-a-led-by-a16z/) from leading investors ranging from a16z to Balaji to Founders Fund and many others. Since the Fall 2021, we have been ramping up efforts to create a web3 version of Golden to increase the speed that the knowledge graph can be built.&#x20;
+Голден [начался](https://golden.com/blog/introducing-golden/) как [web2-компания](https://golden.com/wiki/Golden-5R) в Сан-Франциско с миссией составить карту всех человеческих знаний. Мы [привлекли $60 млн](https://golden.com/blog/golden-raises-40m-series-b/) от ведущих венчурных фондов и инвесторов, включая a16z Crypto, Balaji, Founders Fund и многих других. С осени 2021 года мы сосредоточились на создании децентрализованного протокола для увеличения скорости построения графа знаний.
 
-Golden is building a permissionless, open source [protocol](https://golden.xyz/) that incentivizes the collection and verification of canonical knowledge, which it will offer to the public for free and charge commercial entities.
 
-**User growth:** 10’s of thousands of users (growing daily) have connected wallets to Golden and are submitting data into the protocol.
+Golden создает [протокол](https://golden.xyz/) с открытым исходным кодом, который стимулирует сбор и проверку канонических знаний, которые он будет предлагать общественности бесплатно и взимать плату с коммерческих организаций.
 
-**Data collection:** users have contributed millions of data triples to Golden so far, and we have started the process of the verification of these triples.
+**Рост числа пользователей:** 10 тысяч пользователей (число которых растет ежедневно) подключили кошельки к Golden и передают данные в протокол.
 
-**Protocol development:** We are developing a protocol, [dApp](https://dapp.golden.xyz/), and APIs for submitting and verifying triples. [Golden.com](http://golden.com) is in the process of being optimized for full web3 integration.
+**Сбор данных:** пользователи предоставили миллионы тройных данных для Golden, и мы начали процесс проверки этих тройных данных.
 
-**Whitepaper:** We have written our whitepaper, which is currently in review to be made public soon.
+**Разработка протокола:** Мы разрабатываем протокол, [dApp](https://dapp.golden.xyz/), и API для отправки и проверки триплов. [Golden.com](http://golden.com) находится в процессе оптимизации для полной web3 интеграции.
 
-**Hiring:** We are hiring fast and have [many open roles](https://www.notion.so/Golden-Careers-Public-c19e625ad4874be8b845b756ee1b0252). Please apply or share.
+**Whitepaper:** Мы написали наш вайтпепер, который в настоящее время находится на рассмотрении и скоро будет опубликован.
 
-### I am new here, how can I help?
+**Наем:** Мы быстро набираем сотрудников, у нас [много открытых вакансий] (https://www.notion.so/Golden-Careers-Public-c19e625ad4874be8b845b756ee1b0252). Пожалуйста, обращайтесь или поделитесь.
 
-1. Start by [creating an account on Golden.com](https://golden.com/signup) and following the guide to [add-wallet-to-golden.com.md](general-information/add-wallet-to-golden.com.md "mention") ([settings](https://golden.com/settings/profile) → connect wallet). If you have already made a Golden.com account, just connect your wallet.
-2. Sign in to the Golden dApp by following: [accessing-the-dapp.md](protocol/guides/accessing-the-dapp.md "mention").
-3. Help grow the knowledge graph by [adding data triples and citations](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac) to [Golden.com](http://golden.com) entity pages. Follow our [Adding Structured Data Guide](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac) to get started.
-   1. **Submit triples:** Users that submit fact triples that go on to be accepted will be eligible for mainnet incentives. _Please note, there is no need to paste edits of data triples and citations into Discord, we have a log of your efforts!_
-   2. **Verify triples:** Users can become eligible for a future airdrop by verifying triples that get accepted by the protocol on [dapp.golden.xyz](http://dapp.golden.xyz). Please follow our [Triple Verification Guide](https://docs.golden.xyz/protocol/guides/triple-validation-guide) when verifying.
-4. Are you a builder (developer, data scientist etc.) that can help us? Let us know in Discord by [introducing yourself](https://discord.com/channels/900818355315961876/920015042471133204).
-5. Share the project! Tell your friends, developers, or family. [Join our Discord](https://discord.gg/28QcktsGmG) and invite like-minded people to [golden.xyz](https://golden.xyz).
+### Я здесь новенький, как я могу помочь?
 
-### **What’s the TLDR on how the protocol works?**
+1. Начните с [создания аккаунта на Golden.com](https://golden.com/signup) и следуйте руководству [add-wallet-to-golden.com.md](general-information/add-wallet-to-golden.com.md "mention") ([settings](https://golden.com/settings/profile) → connect wallet). Если вы уже создали аккаунт на Golden.com, просто подключите кошелек.  
+2. Войдите в Golden dApp, выполнив следующие действия: [accessing-the-dapp.md](protocol/guides/accessing-the-dapp.md "mention").  
+3. Помогите расширить граф знаний, [добавляя тройки данных и цитаты](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac) на страницы сущностей [Golden.com](http://golden.com). Для начала работы следуйте нашему [Руководству по добавлению структурированных данных](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac).  
+1. **Подавайте тройки:** Пользователи, которые подают тройки фактов, которые будут приняты, получат право на поощрения в сети. Пожалуйста, обратите внимание, что не нужно вставлять правки триплов данных и цитаты в Discord, у нас есть журнал ваших усилий!  
+2. **Верификация триплов:** Пользователи могут получить право на будущий airdrop, верифицируя триплы, принятые протоколом на [dapp.golden.xyz](http://dapp.golden.xyz). Пожалуйста, следуйте нашему руководству [Triple Verification Guide](https://docs.golden.xyz/protocol/guides/triple-validation-guide) при верификации.  
+4. Вы разработчик, data scientist или т.п., который может нам помочь? Сообщите нам об этом в Discord, [представившись](https://discord.com/channels/900818355315961876/920015042471133204).  
+5. Поделитесь проектом! Расскажите своим друзьям, разработчикам или членам семьи. [Присоединяйтесь к нашему Discord](https://discord.gg/28QcktsGmG) и приглашайте единомышленников на [golden.xyz](https://golden.xyz).  
+  
 
-1. **Testnet points for submission and verification:** Tesnet points are earned by submitters and verifiers for loading and verifying true facts (triples) into the knowledge graph. E.g. _‘Apple’ ‘was founded in’ ‘1976’_. Verifiers confirm the correctness of the triples by voting. Once the number of votes reaches a statistical threshold, the ‘fact’ is accepted by the knowledge graph and immutably stored. As the knowledge graph grows, the data itself can be used to aid verification. Submitters and verifiers gain a reputation score as triples are accepted.
-2. **Data NFTs, fractional ownership, and revenue share incentives:** NFTs are used to organize fractional ownership between the creators of the data associated with each unique entity. Various canonical data can be associated with the unique data NFTs including triples, natural language in various translations, canonical images, or otherwise. These NFTs will assist with disambiguation and allow fractionalized ownership for the submitters, verifiers, and the protocol. Revenue shared from commercial data usage can be distributed to the creators of the data and protocol. Copyright law is used to protect intellectual property and afford commercial usage of the data while allowing free usage by the public.
-3. **Anti-gaming:** A Sybil attack resistance, game-theoretic approach is used to provide asymmetric costs to gaming the protocol. Slashing staked collateral is a mechanic used to prevent submitters and verifiers from incorrectly submitting or voting. Reputation scores are implemented to increase efficiency in staking and slashing. Voting is blind.
+### **Вкратце, как работает протокол?  
+  
+1. **Очки Тестнета за представление и проверку:** Очки Тестнета начисляются представителям и проверяющим за загрузку и проверку истинных фактов ("тройки") в граф знаний. Например, _"Apple" "была основана в 1976 году"_. Проверяющие подтверждают правильность тройных фактов путем голосования. Как только количество голосов достигает статистического порога, "факт" принимается графом знаний и сохраняется в неизменном виде. По мере роста графа знаний сами данные могут быть использованы для помощи в проверке. По мере принятия тройных фактов отправители и проверяющие получают репутационный балл.  
+2. **NFTs данных, дробное владение и стимулы для разделения доходов:** NFTs используются для организации дробного владения между создателями данных, связанных с каждой уникальной сущностью. Различные канонические данные могут быть связаны с НФТ уникальных данных, включая тройки, естественный язык в различных переводах, канонические изображения или другие. Эти НФТ будут помогать в разотождествлении и позволят разделить право собственности для отправителей, верификаторов и протокола. Доходы от коммерческого использования данных могут быть распределены между создателями данных и протокола. Авторское право используется для защиты интеллектуальной собственности и позволяет использовать данные в коммерческих целях при свободном использовании общественностью.  
+3. **Анти-гейминг:** Теоретико-игровой подход, устойчивый к атакам Sybil, используется для обеспечения асимметричной стоимости игры протокола. Срезание залоговых ставок - это механика, используемая для предотвращения неправильной подачи или голосования подателями и верификаторами. Для повышения эффективности закладывания и слэшинга используются репутационные баллы. Голосование проводится вслепую.  
+  
+Дизайн системы V0:  
+  
+{% embed url="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuDIr66fHSwokJzWURnvl0o%2FGolden-Diagrams%3Fnode-id%3D0%253A1" %}  
 
-V0 system design:
+### Когда будет выпущен стимулируемый майннет?  
+  
+Сецчас стимулируемый майннет нет, и дата его выхода не установлена. Команда будет четко сообщать об этом заблаговременно до запуска.  
+  
+⚠️ Важно: Мы \***никогда**\* не будем напрямую сообщать вам о запуске стимула в сети (например, о продаже токенов), поэтому, пожалуйста, не отвечайте на такие сообщения, так как они являются спамом. Когда мы запустим стимул, мы сделаем это по нескольким маркетинговым каналам, включая основные каналы Discord, Twitter и наш блог.  
+  
+Команда активно работает над запуском мейннета. В настоящее время мы создаем наш протокол и [dApp](https://dapp.golden.xyz/) в тестовой сети. Мы объявим предполагаемую дату запуска по мере дальнейшего развития протокола. Мы создаем Golden в соответствии с требованиями Комиссии по ценным бумагам и биржам США (SEC)  и не собираемся уклоняться от выполнения требований.  
 
-{% embed url="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuDIr66fHSwokJzWURnvl0o%2FGolden-Diagrams%3Fnode-id%3D0%253A1" %}
+### **Как будут начисляться баллы тестнета?**  
+  
+На данный момент, выполнение следующих заданий может дать вам право заработать баллы testnet:  
+  
+* Подача тройки, которая в дальнейшем будет принята.  
+* Выполнение верификации тройки, которая согласуется с консенсусом голосования  
+* Разработка кода протокола  
+* Добавление ссылок на тройки, которые еще не имеют ссылок.  
+  
+До 1% от поощрительной казны будет присуждаться сообществу за вклад в протокол, сделанный во время фазы тестнета. Подробнее см. в [incentivized-testnet-activities.md](protocol/incentivized-testnet-activities.md "mention").  
+  
 
-### When will a mainnet incentive be released?
 
-There is currently no mainnet incentive and no set date for release. The team will clearly communicate this release well in advance of the launch.
+### Как я могу подавать тройки?  
+  
+Вы можете использовать наш редактор инфобоксов [здесь](https://jmp.sh/UanEHeA) для редактирования троек. Пожалуйста, следуйте нашему [Руководство по написанию структурированных данных]([Руководство по написанию структурированных данных (notion.site)](https://usuch.notion.site/f2024d2ec14f459d832631a54659c388)). Сейчас мы принимаем тройки только на английском языке, но мы планируем расширить этот список как можно скорее.  
 
-⚠️ Important: We will \***never**\* directly message you about a mainnet incentive launch (ex: token sale), so please do not interact with any such messages, as they are spam. When we launch the incentive, we will do so on multiple marketing channels including core Discord channels, Twitter, and our blog.
+### Как я могу выполнять задачи верификации?
 
-The team is working aggressively towards a mainnet launch. Currently, we are creating our protocol and [dApp](https://dapp.golden.xyz/) on the testnet. We will announce an estimated launch date as we further build the protocol. We are building Golden in an SEC-compliant manner and are not cutting corners with compliance.
+В [Руководство по верификации троек](https://docs.golden.xyz/protocol/guides/triple-validation-guide) описана механика и общие вопросы, связанные с верификацией.
 
-### **How will testnet points be awarded?**
 
-At this time, performing the following tasks may qualify you to earn testnet points:
+### Я добавляю тройки, получу ли я вознаграждение?
 
-* Submitting triples that go on to be accepted
-* Performing triple verifications that go on to agree with voting consensus
-* Developing protocol code
-* Adding citations to triples that do not have a citation already
+Да! Вы будете иметь право на вознаграждение в зависимости от количества правильных троек, представленных вами, когда мы запустим наш протокол в майннете.  
+  
+**Примечание**: чтобы дополнения были засчитаны в качестве поощрительного вознаграждения, они должны соответствовать нашему [Руководству по написанию структурированных данных]([Руководство по написанию структурированных данных (notion.site)](https://usuch.notion.site/f2024d2ec14f459d832631a54659c388)) и не пытаться обмнауть протокол.  
+  
 
-Up to 1% of the incentive treasury will be awarded to the community for protocol contributions made during the testnet phase. See [incentivized-testnet-activities.md](protocol/incentivized-testnet-activities.md "mention") for more.
 
-### How can I perform triple submission tasks?
+### Я добавляю цитаты, получу ли я вознаграждение?
 
-You can use our infobox editor [here](https://jmp.sh/UanEHeA) to edit triples. Please follow our [Adding Structured Data Guide](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac). We are currently _only accepting triples in the English language_, though we plan to expand this as soon as possible.
+Да! Добавление достоверных ссылок на любую тройку, на которой отсутствует ссылка, даст вам право на получение специального поощрения и поможет тройкам, на которые вы ссылаетесь, стать проверенными. Цитирование должно быть сосредоточено на тройках, которые не являются предикатами URL, особенно на тройках, добавленных после запуска [golden.xyz](http://golden.xyz).
 
-### How can I perform verification tasks?
 
-The [Triple Verification Guide](https://docs.golden.xyz/protocol/guides/triple-validation-guide) covers mechanics and common questions around verification.
+### **Будет ли вклад в** [**golden.com**](http://golden.com) **засчитан для будущего поощрительного вознаграждения?**
 
-### I have been adding triples, are my efforts being counted?
+Нет. Мы ориентируемся на тройки, которые в дальнейшем будут проверены, а также на ссылки на тройки. Начиная с 16 февраля 2022 года, естественный язык и проза в статьях не будут вознаграждаться. Если вы все еще хотите писать прозой, пожалуйста, следуйте нашему [Руководству по написанию статей] ([Руководство по написанию статей (notion.site)](https://usuch.notion.site/0bbbe643349d4f04b9e5691e8e5723a7)). В настоящее время мы _принимаем только прозу на английском языке_, хотя мы планируем расширить этот список как можно скорее.  
 
-Yes! You will eligible for an incentive reward relative to the number of correct triples you have submitted when we launch our protocol on the mainnet.
 
-**Note**: for additions to be counted towards incentive rewards they must follow the [Adding Structured Data Guide](https://www.notion.so/Adding-Structured-Data-Guide-ae657337bf4f4e54ae4402df083c76ac) and not attempt to game the protocol.
+### В чем разница между [**Golden.com**](http://golden.com) **и [**dApp**](https://dapp.golden.xyz/) **(Golden.xyz)?
 
-### I have been adding citations, are my efforts being counted?
+[Golden.com](http://golden.com) - это сайт для регистрации учетной записи пользователя, подключения кошелька и подачи троек данных (с цитатами). [dApp](https://dapp.golden.xyz/) - это минимальный dApp на тестовой сети с пользовательским интерфейсом, ориентированным на верификацию (проверку) троек.
 
-Yes! Adding valid citations to any triple that is missing a citation will qualify you for a special incentive, and will help the triples you have cited become verified. Citations should be focused around triples that are not URL predicates, especially triples added after the launch of [golden.xyz](http://golden.xyz).
+### Первоначальное распределение баллов тестовой сети не будет учитываться для поощрительного вознаграждения
 
-### **Will any contribution to** [**golden.com**](http://golden.com) **count for a future incentive reward?**
+Начальные очки тестнета, которые выделяются, когда пользователь присоединяется к dApp, используются протоколом в качестве механики начального стейкинга для обеспечения возможности подачи и проверки триплов. Это первоначальное распределение очков тестнета НЕ будет учитываться в будущих поощрительных вознаграждениях мейннета. Очки тестовой сети предназначены для вознаграждения пользователей за позитивные действия в протоколе.  
+  
 
-No. We are focused on triples that go on to be verified along with citations for triples. As of February 16, 2022, natural language and prose in articles will not be rewarded. If you still wish to contribute prose, please follow our [Writing Guide](https://www.notion.so/Writing-Guide-1e96be6c4c4742a288a142dbc212248c). We are currently _only accepting prose in the English language_, though we plan to expand this as soon as possible.
 
-### What is the difference between [**Golden.com**](http://golden.com) **and the** [**dApp**](https://dapp.golden.xyz/) **(Golden.xyz)?**
+### Как я могу найти свою позицию в таблице лидеров?
 
-[Golden.com](http://golden.com) is the current place to register your user account, connect your wallet and submit triple data (with citations). The [dApp](https://dapp.golden.xyz/) is a minimal dApp on testnet with a focused UI around verification.
+Вы можете узнать свою текущую позицию в таблице лидеров. Если количество "заявок" и "принятых троек", связанных с вашим кошельком, кажется меньше, чем ожидалось, это потому, что ваши заявки с [Golden.com](http://golden.com) все еще импортируются, и верификаторам еще нужно проголосовать за них.
 
-### Initial testnet point allocations will not be considered for incentive rewards
 
-The initial testnet points that are allocated when a user joins the dApp are used as an initial staking mechanic by the protocol to enable triple submission and verification. This initial testnet point allocation will NOT be considered in a future mainnet incentive reward. Testnet points are designed to reward users for taking positive actions in the protocol.
+### Почему команда Golden подходит для создания этого проекта?
 
-### How can I find my position on the leaderboard?
+В команде Golden есть энтузиасты криптовалют, начиная с 2011 года, некоторые из них были ранними пользователями и сторонниками BTC. Инвесторы Golden также стояли у истоков многих криптовалютных проектов, которые мы видим на рынке сегодня.
 
-You may be able to find your current position on the leaderboard. If the number of ‘submissions’ and ‘accepted triples’ you see associated with your wallet seem lower than expected, this is because your submissions from [Golden.com](http://golden.com) are still being imported and verifiers still need to vote on them.
-
-### Why is Golden the right team to build this?
-
-Golden’s team has crypto enthusiasts dating back to 2011, some being early users and supporters of BTC. Golden's investors have also been at the heart of many crypto projects we see in the market today.
-
-### **Do I need to paste the edit I have done into Discord?**
-
-No, we have full logs of all edits being made on [Golden.com](http://golden.com) and the [dApp](https://dapp.golden.xyz/).
-
-### **When are other languages going to be supported?**
-
-We want to prove the unit economics and security of the system first in English (the language of our original team). If it works, we want to open up to multiple languages (as it should be!). Please don’t make non-English edits at this point, as we don’t support it yet.
-
-### **I want to be a mod in Discord, how should I approach Golden?**
-
-We are still configuring Discord for mass scale. At this time, please refrain from DMing team members as this will only slow the protocol development down. However, long term, we are interested in mods. If you have experience in this area, please add that to your introduction in the "introductions" channel. We are booting up moderators in a careful way to prevent security issues.
-
-### Can I change the eth account address associated with my [Golden.com](http://golden.com/) account / used to login into dapp.golden.xyz?
-
-You cannot change the eth account address associated with your [golden.com](http://golden.com/) account or that you used to login into dapp.golden.xyz. This would cause issues with how attribution for effort is tracked. To use a new .eth account, please create a new account on [golden.com](http://golden.com/).
-
-We plan to explore how we can help users not lose previous work in the case of wallet hacks, loss of login information, etc., in the context of these technical constraints.
+### **Нужно ли мне отправлять сделанные правки в Discord?  
+  
+Нет, у нас есть полные логи всех сделанных вами правок на [Golden.com](http://golden.com) и [dApp](https://dapp.golden.xyz/).  
+  
+### **Когда будут поддерживаться другие языки?**  
+  
+Мы хотим доказать экономическую эффективность и безопасность системы сначала на английском языке (языке нашей первоначальной команды). Если это сработает, мы хотим открыть доступ к нескольким языкам (как и должно быть!). Пожалуйста, пока не вносите правки на неанглийском языке, так как мы его пока не поддерживаем.  
+  
+### **Я хочу стать модератором в Discord, как мне обратиться к Golden?  
+  
+Мы все еще настраиваем Discord для массового использования. На данный момент, пожалуйста, воздержитесь от DM-сообщений с членами команды, так как это только замедлит развитие протокола. Однако в долгосрочной перспективе мы заинтересованы в модах. Если у вас есть опыт в этой области, пожалуйста, добавьте это к вашему представлению в канале "Представления". Мы тщательно выбираем модераторов, чтобы избежать проблем с безопасностью.
+  
+### Могу ли я изменить адрес учетной записи eth, связанный с моей учетной записью [Golden.com](http://golden.com/) / используемой для входа в dapp.golden.xyz?  
+  
+Вы не можете изменить eth адрес учетной записи, связанный с вашей учетной записью [golden.com](http://golden.com/) или использованный для входа в dapp.golden.xyz. Это вызовет проблемы с тем, как отслеживается атрибуция усилий. Чтобы использовать новую учетную запись .eth, пожалуйста, создайте новую учетную запись на [golden.com](http://golden.com/).  
+  
+Мы собираемся рассмотреть, как мы можем помочь пользователям не потерять предыдущую работу в случае взлома кошелька, потери информации для входа и т.д., в контексте этих технических ограничений.
