@@ -1,9 +1,9 @@
-# Table of contents
+# Оглавление
 
-* [Welcome to the Golden Protocol](README.md)
-  * [About Golden](predicates/about-golden.md)
+* [Добро пожаловать Golden Protocol](README.md)
+  * [О Golden протоколе](predicates/about-golden.md)
 
-## ✴ Getting Started
+## ✴ Начало работы
 
 * [Getting started as a submitter or verifier](getting-started/getting-started-as-a-api-submitter-or-verifier.md)
 * [Getting started as a protocol developer](getting-started/getting-started-as-a-protocol-developer.md)
@@ -11,7 +11,7 @@
 * [Getting started as a dApp user](getting-started/getting-started-as-a-dapp-user.md)
 * [Getting started in governance and community](getting-started/getting-started-in-governance-and-community.md)
 
-## ♾ Protocol
+## ♾ Протокол
 
 * [Golden Protocol FAQ](<README (2).md>)
 * [Incentivized Testnet Activities](protocol/incentivized-testnet-activities.md)
@@ -37,9 +37,9 @@
   * [IP Ownership](protocol/how-to-get-involved/ip-ownership.md)
 * [Open source development](protocol/open-source-development.md)
 
-## ⚙ API
+## ⚙ АПИ (API)
 
-* [Golden Protocol API Docs](<README (1).md>)
+* [Документация по АПИ Golden Protocol](<README (1).md>)
 * [Intro to API Submission and Verification](api/superagent-introduction.md)
 * [Authentication](api/authentication.md)
 * [Disambiguation Service](api/disambiguation-service/README.md)
@@ -61,20 +61,20 @@
   * [Godel Reference](api/godel-python-sdk/godel-reference.md)
 * [Realtime Events API](api/realtime-events-api.md)
 
-## 🤖 Data and Tools
+## 🤖 Данные и инструменты
 
 * [Data Sources](data-and-tools/data-sources.md)
 * [Apps and Demos](data-and-tools/apps-and-demos.md)
 * [Dataset Uploader](data-and-tools/dataset-uploader.md)
 
-## ⚖ Governance
+## ⚖ Управление
 
 * [Predicates](governance/predicates/README.md)
   * [Predicate Improvement Process](governance/predicates/predicate-improvement-process.md)
   * [Predicate Composition](governance/predicates/predicate-composition.md)
   * [Predicate Naming Convention](governance/predicates/predicate-naming-convention.md)
 
-## ℹ General Information
+## ℹ Общая информация
 
 * [Add Wallet to Golden.com](general-information/add-wallet-to-golden.com.md)
 * [Open Source Repositories](general-information/open-source.md)
